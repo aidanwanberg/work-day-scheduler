@@ -29,6 +29,6 @@ Screenshots:
 <img src="./assets/images/">
 <img src="./assets/images/">
 
-URL of Deployed Application: https://https://aidanwanberg.github.io/work-day-scheduler/
+URL of Deployed Application: https://aidanwanberg.github.io/work-day-scheduler/
 
 URL of GitHub Repository: https://github.com/aidanwanberg/work-day-scheduler
