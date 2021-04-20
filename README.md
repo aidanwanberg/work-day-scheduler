@@ -22,7 +22,7 @@ Description:
 Created a day planner that has dynamically updated HTML and CSS powered via jQuery. This planner allows employees with busy schedules to effectively organize their work day by the hour. Depending on the current time of day, the time slots will change color to depict past, present, or future tasks. The user is also able to save their tasks to the local storage by clicking the blue save button. This way, the user won't lose their saved tasks if the page is accidentally closed or refreshed.
 
 Screenshots:
-<img src="./assets/images/screenshot">
+<img src="./assets/images/screenshot.png">
 
 URL of Deployed Application: https://aidanwanberg.github.io/work-day-scheduler/
 
